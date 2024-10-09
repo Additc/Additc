@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Me:
 👋 Hola, soy Addi, un estudiante y entusiasta del desarrollo de software con una pasión por aprender y mejorar constantemente. Me especializo en lenguajes como [c, c++] y disfruto explorando nuevos enfoques y herramientas que me sean de utilidad para desarrollar mas mis habilidades como programador. Me encanta la idea de poder seguir conociendo y aprendiendo mas sobre los increíbles lenguajes de programación que existen. 
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/addi.tc_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@addi_c11) 
 
 # 💻 Tech Stack:
