@@ -1,5 +1,5 @@
 # 💫 Me:
-👋 Hola, soy Addi, un estudiante y entusiasta del desarrollo de software con una pasión por aprender y mejorar constantemente. Me especializo en lenguajes como [c, c++] y disfruto explorando nuevos enfoques y herramientas que me sean de utilidad para desarrollar mas mis habilidades como programador. Me encanta la idea de poder seguir conociendo y aprendiendo mas sobre los increíbles lenguajes de programación que existen. 
+👋 Hola, soy Addi, un estudiante y entusiasta del desarrollo de software con una pasión por aprender y mejorar constantemente. Me especializo en lenguajes como [c, c++] y disfruto explorando nuevos enfoques y herramientas que me sean de utilidad para desarrollar más mis habilidades como programador. Me encanta la idea de poder seguir conociendo y aprendiendo más sobre los increíbles lenguajes de programación que existen. 
 
 
 ## 🌐 Redes Sociales:
